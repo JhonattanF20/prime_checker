@@ -1,0 +1,7 @@
+cd /workspaces/back-end-development-and-apis/build-a-prime-number-checker-module
+git init
+git add package.json index.js
+git commit -m "Prime number checker module"
+git branch -M main
+git remote add origin https://github.com/JhonattanF20/prime-checker.git
+git push -u origin main
